@@ -33,18 +33,18 @@
 
 ---
 
+## Liria Graphics とは
+
 VRChat向けアイテムを中心に制作アセットを販売している**Boothストア**です。
 
 このリポジトリでは主にパブリックデータの公開と、[販売アイテムのドキュメント](https://github.com/Liria-works/liria_graphics/wiki)、[ライセンス](https://github.com/Liria-works/liria_graphics/wiki/%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)の掲載を行います。
 
-もし販売データに不具合などありましたら、[issues](https://github.com/Liria-works/liria_graphics/issues)にお願いいたします。
+## データの不具合報告
 
-> [!NOTE]
-> 制作してほしいアイテムのアイデアなどがございましたら、以下の方法でお送りください。  
-> もし可能な場合、制作して販売をいたします。
-> - request@liria.work にメールで送信
-> - `idea`ラベルで[issue](https://github.com/Liria-works/liria_graphics/issues)を作成
+[![Static Badge](https://img.shields.io/badge/send_issue-cccccc?style=for-the-badge&logo=github&labelColor=262626)](https://github.com/Liria-works/liria_graphics/issues/new?assignees=Liry24&labels=bug&projects=&template=不具合レポート.md&title=商品データの不具合についての報告)
 
-> [!CAUTION]
-> 上記に沿ってお送りいただいたすべての内容の権利は放棄いただくものとします。  
-> 多くの場合、制作を行う場合でも、こちらから連絡を行ったり謝礼をお贈りしたりしません。
+もし販売データに不具合などありましたら、上のボタンから報告をお願いいたします。  
+
+## アイデアのリクエストについて
+
+[こちら](https://github.com/Liria-works/liria_graphics/blob/main/REQUEST.md)の内容をご確認ください。
