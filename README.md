@@ -12,22 +12,22 @@
 
 <p align="center">
   <a aria-label="unity" href="https://unity.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Unity-4a4a4a.svg?style=for-the-badge&logo=unity&logoColor=white">
+    <img alt="Unity Badge" src="https://img.shields.io/badge/unity-4a4a4a.svg?style=for-the-badge&labelColor=202020&logo=unity&logoColor=white">
   </a>
   <a aria-label="blender" href="https://blender.org/">
-    <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+    <img alt="Blender Badge" src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white&labelColor=5b2d0f">
   </a>
   <a aria-label="rizomuv" href="https://rizom-lab.com/rizomuv-vs/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/rizomuv-ef4000?style=for-the-badge">
+    <img alt="RizomUV Badge" src="https://img.shields.io/badge/rizomuv-ef4000?style=for-the-badge">
   </a>
   <a aria-label="substance" href="https://adobe.com/creativecloud/3d-ar/campaign/pricing.html">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Substance_3D-1e3101?style=for-the-badge&logo=adobe">
+    <img alt="Substance 3D Badge" src="https://img.shields.io/badge/Substance_3D-99e83f?style=for-the-badge&logo=adobe&labelColor=1e3101">
   </a>
   <a aria-label="affinity_photo" href="https://affinity.serif.com/photo/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Affinity%20Photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white">
+    <img alt="Affinity Photo Badge" src="https://img.shields.io/badge/Affinity%20Photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white&labelColor=311d52">
   </a>
   <a aria-label="adobe_font" href="https://fonts.adobe.com/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Adobe%20Fonts-333c4a.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white">
+    <img alt="Adobe Font Badge" src="https://img.shields.io/badge/Adobe%20Fonts-333c4a.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white&labelColor=0f1317">
   </a>
 </p>
 
