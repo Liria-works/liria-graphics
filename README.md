@@ -1,4 +1,4 @@
-[![](/images/banner_liria_005.png)](https://eicosapenta.booth.pm)
+[![](https://github.com/Liria-works/liria_graphics/blob/resouces/images/banner_liria_005.png?raw=true)](https://eicosapenta.booth.pm)
 
 <p align="center">  
   <a aria-label="booth_link" href="https://eicosapenta.booth.pm/">
