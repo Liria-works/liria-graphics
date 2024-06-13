@@ -4,6 +4,7 @@
   <a aria-label="booth_link" href="https://eicosapenta.booth.pm/">
     <img src="https://img.shields.io/badge/liria_graphics-303030?style=for-the-badge&label=%F0%9F%90%AB%20booth&labelColor=fc4d50">
   </a>
+</p>
 
 <p align="center">
   <strong><code>- Featured Softwares -</code></strong>
