@@ -7,10 +7,13 @@
 </p>
 
 <p align="center">
-  <strong><code>- Featured Softwares -</code></strong>
+  <strong><code>- Featured Utilities -</code></strong>
 </p>
 
 <p align="center">
+  <a aria-label="anchorpoint" href="https://www.anchorpoint.app/">
+    <img alt="Anchorpoint Badge" src="https://img.shields.io/badge/anchorpoint-eeeeee?style=for-the-badge&logo=git&logoColor=white&labelColor=1b1e24">
+  </a>
   <a aria-label="unity" href="https://unity.com/">
     <img alt="Unity Badge" src="https://img.shields.io/badge/unity-4a4a4a.svg?style=for-the-badge&labelColor=202020&logo=unity&logoColor=white">
   </a>
@@ -28,6 +31,9 @@
   </a>
   <a aria-label="adobe_font" href="https://fonts.adobe.com/">
     <img alt="Adobe Font Badge" src="https://img.shields.io/badge/Adobe%20Fonts-333c4a.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white&labelColor=0f1317">
+  </a>
+  <a aria-label="liltoon" href="https://lilxyzw.github.io/lilToon/#/">
+    <img alt="Liltoon Badge" src="https://img.shields.io/badge/Liltoon-eeeeee?style=for-the-badge&logoColor=white">
   </a>
 </p>
 
