@@ -53,4 +53,4 @@ VRChat向けアイテムを中心に制作アセットを販売している**Boo
 
 ## アイデアのリクエストについて
 
-[こちら](https://github.com/Liria-works/liria_graphics/blob/main/REQUEST.md)の内容をご確認ください。
+[こちら](https://github.com/Liria-works/liria_graphics/blob/main/.github/REQUEST.md)の内容をご確認ください。
