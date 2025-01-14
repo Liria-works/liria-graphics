@@ -1,49 +1,38 @@
-[![](https://github.com/Liria-works/liria_graphics/blob/resouces/images/banner_liria_005.png?raw=true)](https://eicosapenta.booth.pm)
+[![Liria Graphics][banner]][liria-graphics]
 
-<p align="center">  
-  <a aria-label="booth_link" href="https://eicosapenta.booth.pm/">
-    <img src="https://img.shields.io/badge/liria_graphics-303030?style=for-the-badge&label=%F0%9F%90%AB%20booth&labelColor=fc4d50">
-  </a>
-</p>
+<div align="center"> 
 
-<p align="center">
-  <strong><code>- Featured Utilities -</code></strong>
-</p>
+VRChat向けアイテムを中心に制作しています。
 
-<p align="center">
-  <a aria-label="anchorpoint" href="https://www.anchorpoint.app/">
-    <img alt="Anchorpoint Badge" src="https://img.shields.io/badge/anchorpoint-eeeeee?style=for-the-badge&logo=git&logoColor=white&labelColor=1b1e24">
-  </a>
-  <a aria-label="unity" href="https://unity.com/">
-    <img alt="Unity Badge" src="https://img.shields.io/badge/unity-4a4a4a.svg?style=for-the-badge&labelColor=202020&logo=unity&logoColor=white">
-  </a>
-  <a aria-label="blender" href="https://blender.org/">
-    <img alt="Blender Badge" src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white&labelColor=5b2d0f">
-  </a>
-  <a aria-label="rizomuv" href="https://rizom-lab.com/rizomuv-vs/">
-    <img alt="RizomUV Badge" src="https://img.shields.io/badge/rizomuv-ef4000?style=for-the-badge">
-  </a>
-  <a aria-label="substance" href="https://adobe.com/creativecloud/3d-ar/campaign/pricing.html">
-    <img alt="Substance 3D Badge" src="https://img.shields.io/badge/Substance_3D-99e83f?style=for-the-badge&logo=adobe&labelColor=1e3101">
-  </a>
-  <a aria-label="affinity_photo" href="https://affinity.serif.com/photo/">
-    <img alt="Affinity Photo Badge" src="https://img.shields.io/badge/Affinity%20Photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white&labelColor=311d52">
-  </a>
-  <a aria-label="adobe_font" href="https://fonts.adobe.com/">
-    <img alt="Adobe Font Badge" src="https://img.shields.io/badge/Adobe%20Fonts-333c4a.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white&labelColor=0f1317">
-  </a>
-  <a aria-label="liltoon" href="https://lilxyzw.github.io/lilToon/#/">
-    <img alt="Liltoon Badge" src="https://img.shields.io/badge/Liltoon-eeeeee?style=for-the-badge&logoColor=white">
-  </a>
-</p>
+[ドキュメント][documents]
+・
+[ライセンス][licence]
 
----
+## Available on
 
-## Liria Graphics とは
+[![BOOTH Banner][badge-booth]][liria-graphics]
 
-VRChat向けアイテムを中心に制作アセットを販売している**Boothストア**です。
+## Softwares
 
-このリポジトリでは主にパブリックデータの公開と、[販売アイテムのドキュメント](https://github.com/Liria-works/liria_graphics/wiki)、[ライセンス](https://github.com/Liria-works/liria_graphics/wiki/%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9)の掲載を行います。
+[![Unity Badge][badge-unity]][unity]
+[![Blender Badge][badge-blender]][blender]
+[![Affinity Photo Badge][badge-affinity-photo]][affinity-photo]
+
+[![RizomUV Badge][badge-rizomuv]][rizomuv]
+[![Substance 3D Badge][badge-substance]][substance]
+[![Adobe Fonts Badge][badge-adobe-fonts]][adobe-fonts]
+[![lilToon Badge][badge-liltoon]][liltoon]
+
+### Document website stack
+
+[![GitHub Badge][badge-github]][github]
+[![Vercel Badge][badge-vercel]][vercel]
+[![Astro Badge][badge-astro]][astro]
+[![Vue Badge][badge-vue]][vue]
+
+[![microCMS Badge][badge-microcms]][microcms]
+
+</div>
 
 ## データの不具合報告
 
@@ -54,3 +43,35 @@ VRChat向けアイテムを中心に制作アセットを販売している**Boo
 ## アイデアのリクエストについて
 
 [こちら](https://github.com/Liria-works/liria_graphics/blob/main/.github/REQUEST.md)の内容をご確認ください。
+
+<!-- links -->
+
+[banner]: https://github.com/Liria-works/liria_graphics/blob/resouces/images/banner_liria_005.png?raw=true
+[liria-graphics]: https://eicosapenta.booth.pm
+[documents]: https://documents.liria.work
+[licence]: https://documents.liria.work/licence
+[unity]: https://unity.com
+[blender]: https://blender.org
+[rizomuv]: https://rizom-lab.com/rizomuv-vs
+[substance]: https://www.adobe.com/products/substance3d
+[affinity-photo]: https://affinity.serif.com/photo
+[adobe-fonts]: https://fonts.adobe.com
+[liltoon]: https://lilxyzw.github.io/lilToon
+[github]: https://github.com
+[vercel]: https://vercel.com
+[astro]: https://astro.build
+[vue]: https://vuejs.org
+[microcms]: https://microcms.io/
+[badge-booth]: https://asset.booth.pm/static-images/banner/468x60_01.png
+[badge-unity]: https://svgl-badge.vercel.app/api/Software/Unity?theme=dark
+[badge-blender]: https://svgl-badge.vercel.app/api/Design/Blender?theme=dark
+[badge-rizomuv]: https://img.shields.io/badge/rizomuv-ef4000?style=flat
+[badge-substance]: https://img.shields.io/badge/Substance_3D-99e83f?style=flat
+[badge-affinity-photo]: https://svgl-badge.vercel.app/api/Software/Affinity%20Photo?theme=dark
+[badge-adobe-fonts]: https://img.shields.io/badge/Adobe%20Fonts-333c4a.svg?style=flat
+[badge-liltoon]: https://img.shields.io/badge/lilToon-eeeeee?style=flat
+[badge-github]: https://svgl-badge.vercel.app/api/Software/Github?theme=dark
+[badge-vercel]: https://svgl-badge.vercel.app/api/Hosting/Vercel?theme=dark
+[badge-astro]: https://svgl-badge.vercel.app/api/Framework/Astro?theme=dark
+[badge-vue]: https://svgl-badge.vercel.app/api/Framework/Vue?theme=dark
+[badge-microcms]: https://img.shields.io/badge/microcms-2b2c30?style=flat
